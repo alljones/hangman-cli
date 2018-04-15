@@ -1,0 +1,24 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "This Word Guess game is a command-line games using contructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alljones/hangman-cli.git"
+  },
+  "keywords": [word guess, cli, javascript, advanced, npm, node, hangman, fun, game],
+  "author": "Allan Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alljones/hangman-cli/issues"
+  },
+  "homepage": "https://github.com/alljones/hangman-cli#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "prompt": "^1.0.0"
+  }
+}
