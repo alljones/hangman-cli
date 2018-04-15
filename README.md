@@ -1,5 +1,5 @@
 # Hangman (CLI)
-This Word Guess game is a command-line games using contructor functions.
+This Word Guess app is a command-line game using contructor functions.
 
 ### Technologies Used
 
