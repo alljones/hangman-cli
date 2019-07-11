@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/alljones/hangman-cli.git"
   },
-  "keywords": [word guess, cli, javascript, advanced, npm, node, hangman, fun, game],
+  "keywords": [guess, cli, javascript, advanced, npm, node, hangman, fun, game],
   "author": "Allan Jones",
   "license": "ISC",
   "bugs": {
